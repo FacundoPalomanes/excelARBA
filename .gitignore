@@ -1,3 +1,7 @@
+# local database file 
+local_database.csv
+current_dni.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
